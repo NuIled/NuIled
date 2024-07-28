@@ -23,8 +23,8 @@ I am Amine Outifrakh, a passionate and dedicated DevOps Engineer with a strong b
 ## Contact
 
 - **Email**: aoutifra@student.1337.ma
-- **LinkedIn**: [linkedin.com/in/amineoutifrakh](https://linkedin.com/in/amineoutifrakh)
-- **GitHub**: [github.com/amineoutifrakh](https://github.com/amineoutifrakh)
+- **LinkedIn**: [linkedin.com/in/amineoutifrakh](https://www.linkedin.com/in/amine-outifrakh)
+- **GitHub**: [github.com/amineoutifrakh](https://github.com/NuIled)
 
 ---
 
