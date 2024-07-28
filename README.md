@@ -16,28 +16,9 @@ I am Amine Outifrakh, a passionate and dedicated DevOps Engineer with a strong b
 - **Version Control**: Strong expertise in Git for version control and collaboration.
 
 ### Technical Skills
-- **Programming Languages**: Python, Bash, Go
+- **Programming Languages**: Python, Bash
 - **Operating Systems**: Linux (Ubuntu, CentOS), Windows
 - **Networking**: TCP/IP, DNS, Load Balancing, Firewalls
-
-## Projects
-
-### Project 1: Automated CI/CD Pipeline
-- Designed and implemented a robust CI/CD pipeline using Jenkins and Docker, reducing deployment time by 40%.
-- Integrated automated testing and code quality checks to ensure high standards of software quality.
-
-### Project 2: Scalable Kubernetes Cluster
-- Deployed a scalable Kubernetes cluster on AWS, utilizing Terraform for infrastructure provisioning.
-- Implemented Helm for managing Kubernetes applications and facilitating seamless updates.
-
-### Project 3: Centralized Logging System
-- Set up a centralized logging system using the ELK Stack (Elasticsearch, Logstash, Kibana) to aggregate and visualize logs from multiple sources.
-- Enhanced system monitoring and troubleshooting capabilities, leading to faster issue resolution.
-
-## Certifications
-- AWS Certified DevOps Engineer
-- Certified Kubernetes Administrator (CKA)
-- Docker Certified Associate
 
 ## Contact
 
